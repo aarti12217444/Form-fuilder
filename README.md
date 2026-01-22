@@ -17,7 +17,7 @@ npm install -g pnpm
 Clone the project
 
 ```bash
-git clone https://github.com/RohanShrestha01/form-builder.git
+git clone  https://github.com/aarti12217444/Form-fuilder.git
 ```
 
 then navigate into the project
